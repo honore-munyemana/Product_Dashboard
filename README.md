@@ -11,22 +11,18 @@ The application demonstrates full **CRUD operations**, state management using **
 - **Vite** (Fast development build tool)
 - **Tailwind CSS** (Utility-first styling)
 - **JavaScript (ES6+)**
-- **Mock data (No backend)**
+- **Mock data** (No backend)
 
 ---
 
 ## 📂 Project Structure
+```
 src/
 │
 ├── components/
-│   │
-│   │
 │   ├── layout/
-│   │   │
 │   │   ├── Sidebar.jsx
-│   │   │
 │   │   ├── Navbar.jsx
-│   │   │
 │   │   └── DashboardLayout.jsx
 │   │
 │   ├── common/
@@ -53,8 +49,7 @@ src/
 │
 ├── App.jsx
 └── main.jsx
-
-
+```
 
 ---
 
@@ -104,29 +99,44 @@ src/
 ## 🛠️ Installation & Running the Project
 
 ### 1️⃣ Clone the Repository
-```
+```bash
 git clone https://github.com/YOUR_USERNAME/product-management-dashboard.git
+cd product-management-dashboard
 ```
+
 ### 2️⃣ Install Dependencies
- ```
- npm install
+```bash
+npm install
 ```
+
 ### 3️⃣ Run Development Server
+```bash
+npm run dev
 ```
- npm run dev
-``` 
 
-The app will run at:
+The app will run at: **http://localhost:5173**
 
-http://localhost:5173
+---
 
 ## 📌 Future Improvements
 
-Connect to a REST API or backend service
+- Connect to a REST API or backend service
+- Add authentication & authorization
+- Pagination and sorting
+- Persist data using a database
 
-Add authentication & authorization
+## 🤝 Contributing
 
-Pagination and sorting
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/YOUR_USERNAME/product-management-dashboard/issues).
 
-Persist data using a database
+---
 
+## 👤 Author
+
+**Your Name**
+- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
+---
+
+⭐ **If you found this project helpful, please give it a star!**

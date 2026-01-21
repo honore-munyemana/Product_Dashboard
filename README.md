@@ -19,9 +19,9 @@ The application demonstrates full **CRUD operations**, state management using **
 src/
 │
 ├── components/
-
-│ ├── layout/
-
+│ │ 
+│ │ │  ├── layout/
+│ │ │
 │ │ ├── Sidebar.jsx
 
 │ │ ├── Navbar.jsx

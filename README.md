@@ -17,28 +17,51 @@ The application demonstrates full **CRUD operations**, state management using **
 
 ## 📂 Project Structure
 src/
+│
 ├── components/
+
 │ ├── layout/
+
 │ │ ├── Sidebar.jsx
+
 │ │ ├── Navbar.jsx
+
 │ │ └── DashboardLayout.jsx
+
 │ ├── common/
+
 │ │ ├── Button.jsx
+
 │ │ ├── Modal.jsx
+
 │ │ └── Input.jsx
+
 │ ├── dashboard/
+
 │ │ └── SummaryCard.jsx
+
 │ └── products/
+
 │ ├── ProductTable.jsx
+
 │ ├── ProductForm.jsx
+
 │ └── ProductFilter.jsx
+
 ├── pages/
+
 │ └── Dashboard.jsx
+
 ├── data/
+
 │ └── mockProducts.js
+
 ├── hooks/
+
 │ └── useProducts.js
+
 ├── App.jsx
+
 └── main.jsx
 
 

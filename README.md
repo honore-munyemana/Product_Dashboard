@@ -129,7 +129,7 @@ The app will run at: **http://localhost:5173**
 ## 👤 Author
 
 **Honore Munyemna**
-- GitHub: 
+- GitHub: https://github.com/honore-munyemana
 
 ---
 

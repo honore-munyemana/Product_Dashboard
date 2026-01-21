@@ -23,8 +23,13 @@ export const useProducts = () => {
     };
 
     const updateProduct = (id, updatedFields) => {
+        const processedFields = {
+            ...updatedFields,
+            price: parseFloat(updatedFields.price),
+            stock: parseInt(updatedFields.stock),
+        };
         setProducts((prev) =>
-            prev.map((p) => (p.id === id ? { ...p, ...updatedFields } : p))
+            prev.map((p) => (p.id === id ? { ...p, ...processedFields } : p))
         );
     };
 

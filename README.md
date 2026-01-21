@@ -20,9 +20,13 @@ src/
 │
 ├── components/
 │   │
+│   │
 │   ├── layout/
+│   │   │
 │   │   ├── Sidebar.jsx
+│   │   │
 │   │   ├── Navbar.jsx
+│   │   │
 │   │   └── DashboardLayout.jsx
 │   │
 │   ├── common/

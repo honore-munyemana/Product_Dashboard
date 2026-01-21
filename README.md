@@ -124,19 +124,12 @@ The app will run at: **http://localhost:5173**
 - Add authentication & authorization
 - Pagination and sorting
 - Persist data using a database
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/YOUR_USERNAME/product-management-dashboard/issues).
-
 ---
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**Honore Munyemna**
+- GitHub: 
 
 ---
 
-⭐ **If you found this project helpful, please give it a star!**
